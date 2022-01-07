@@ -1,0 +1,23 @@
+{
+  "name": "to-do-lis-nodejs",
+  "version": "1.0.0",
+  "description": "Construindo um to do list com node.js",
+  "main": "route.js",
+  "scripts": {
+    "test": "node dev route.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnny-J-Ramos/to-do-lis-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnny-J-Ramos/to-do-lis-nodejs/issues"
+  },
+  "homepage": "https://github.com/Johnny-J-Ramos/to-do-lis-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
