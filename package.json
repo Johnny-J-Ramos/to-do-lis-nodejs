@@ -4,7 +4,8 @@
   "description": "Construindo um to do list com node.js",
   "main": "route.js",
   "scripts": {
-    "test": "node dev route.js"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/Johnny-J-Ramos/to-do-lis-nodejs#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
   }
 }
